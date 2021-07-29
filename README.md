@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- ✨ I'm coding on **NodeJS, JS**
+- ✨ I'm coding on **JavaScript**
 
 
 
