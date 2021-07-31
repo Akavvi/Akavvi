@@ -1,3 +1,4 @@
+![LinkedIn cover - 1](https://user-images.githubusercontent.com/72504099/127746598-d41cab92-8f1b-49a0-b346-5b3617712dfb.png)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akavvi&show_icons=true&theme=dark&border_color=5AC69F&icon_color=5AC69F&title_color=5AC69F) 
