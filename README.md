@@ -21,5 +21,4 @@
 
 
 ![React](https://img.shields.io/badge/-React-1c1c1c?style=for-the-badge&logo=react&logoColor=5AC69F)
-![Kotlin](https://img.shields.io/badge/-Kotlin-1c1c1c?style=for-the-badge&logo=kotlin&logoColor=5AC69F)
 
