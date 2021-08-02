@@ -1,5 +1,4 @@
-![LinkedIn cover - 1](https://user-images.githubusercontent.com/72504099/127746598-d41cab92-8f1b-49a0-b346-5b3617712dfb.png)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oay50tkqc5hsifblvin0wigi6&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <h1 align="left">Stats</h1>
 
 
