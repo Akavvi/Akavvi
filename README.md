@@ -14,7 +14,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1c1c1c?style=for-the-badge&logo=typescript&logoColor=5AC69F)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1c1c1c?style=for-the-badge&logo=javascript&logoColor=5AC69F)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-1c1c1c?style=for-the-badge&logo=nodedotjs&logoColor=5AC69F)
-![IntelliJ](https://img.shields.io/badge/-IntellIj-1c1c1c?style=for-the-badge&logo=intellijidea&logoColor=5AC69F)
+![IntelliJ](https://img.shields.io/badge/-Webstorm-1c1c1c?style=for-the-badge&logo=webstorm&logoColor=5AC69F)
 
 <h1 align="left">Learning</h1>
 
