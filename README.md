@@ -19,5 +19,5 @@
 <h1 align="left">Learning</h1>
 
 
-![React](https://img.shields.io/badge/-React-1c1c1c?style=for-the-badge&logo=react&logoColor=5AC69F)
+![React](https://img.shields.io/badge/-Vue-1c1c1c?style=for-the-badge&logo=vuedotjs&logoColor=5AC69F)
 
