@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akavvi&show_icons=true&theme=dark&border_color=5AC69F&icon_color=5AC69F&title_color=5AC69F) 
 
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akavi&theme=dark&border_color=5AC69F&icon_color=5AC69F&title_color=5AC69F)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akavi&theme=dark&border_color=5AC69F&icon_color=5AC69F&title_color=5AC69F&v=2)
 
 
 
