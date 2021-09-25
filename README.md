@@ -16,8 +16,5 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-1c1c1c?style=for-the-badge&logo=nodedotjs&logoColor=5AC69F)
 ![IntelliJ](https://img.shields.io/badge/-Webstorm-1c1c1c?style=for-the-badge&logo=webstorm&logoColor=5AC69F)
 
-<h1 align="left">Learning</h1>
 
-
-Some languages and frameworks
 
