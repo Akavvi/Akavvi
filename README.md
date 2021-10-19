@@ -4,7 +4,7 @@
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akavi&theme=dark&border_color=5AC69F&icon_color=5AC69F&title_color=5AC69F&v=2&layout=compact&langs_count=5)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akavvi&show_icons=true&theme=dark&border_color=5AC69F&icon_color=5AC69F&title_color=5AC69F&count_private=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akavvi&theme=dark&border_color=5AC69F&icon_color=5AC69F&title_color=5AC69F)](https://github.com/akavvi)
 
 
 
