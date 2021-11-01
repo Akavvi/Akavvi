@@ -1,4 +1,4 @@
-<h1 align = "center">Статистика</h1>
+
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akavi&border_color=050018&icon_color=5AC69F&title_color=5AC69F&v=2&layout=compact&langs_count=5&bg_color=050018&text_color=FFFFFF&locale=ru) 
 
