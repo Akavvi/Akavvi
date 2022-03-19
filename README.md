@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-050018?style=for-the-badge&logo=javascript&logoColor=5AC69F)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-050018?style=for-the-badge&logo=nodedotjs&logoColor=5AC69F)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-050018?style=for-the-badge&logo=intellijidea&logoColor=5AC69F)
+![Neovim](https://img.shields.io/badge/-Neovim-050018?style=for-the-badge&logo=neovim&logoColor=5AC69F)
 
 
 
